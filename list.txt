@@ -1,0 +1,8 @@
+kodzi-title = "Example"
+
+# The format is odzi-name = "Addon_Name", url = "Addon_Link", img = "Addon_Image"(Image is Optional)
+
+
+kodzi-name = “Seren”, url = "https://nixgates.github.io/packages/"
+kodzi-name = “OpenMeta”, url = "https://a4k-openproject.github.io/"
+kodzi-name = “Realizer”, url = "http://aenemapy.github.io/repo/"
