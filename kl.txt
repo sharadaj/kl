@@ -1,0 +1,4 @@
+kodzi-title = “May 2019”
+kodzi-name = “Seren”, url = “https://nixgates.github.io/packages/”
+kodzi-name = “OpenMeta”, url = “https://a4k-openproject.github.io/”
+kodzi-name = “Realizer”, url:”http://aenemapy.github.io/repo/”
